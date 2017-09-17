@@ -1,0 +1,34 @@
+body {
+    background-color: lightblue;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+h1 {
+    font-size: 80px;
+}
+
+p { 
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    border: solid black;
+    background-color: #D197D1;
+}
+
+.square {
+    font-size: 22px;
+    
+}
+
+#first {
+    font-size: 22px;
+}
+
+html {
+    border: solid black;
+}
+
+img {
+    border: solid white; 
+}
