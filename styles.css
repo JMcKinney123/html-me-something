@@ -4,20 +4,23 @@ body {
     margin-bottom: 50px;
     padding-top: 10px;
     padding-bottom: 10px;
+    font-family: Helvetica;
 }
 h1 {
     font-size: 80px;
+    font-family: Helvetica;
 }
 
 p { 
-    font-family: 'Times New Roman', Times, serif;
+    font-family: Helvetica, sans-serif;
     font-size: 20px;
     border: solid black;
-    background-color: #D197D1;
+    background-color: gray;
 }
 
 .square {
     font-size: 22px;
+    font-family: Helvetica;
     
 }
 
